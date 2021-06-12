@@ -1,10 +1,5 @@
 package dataStructures;
 
-class Node {
-	int data;
-	Node next;
-}
-
 public class LinkedListDemo {
 
 	Node head;
